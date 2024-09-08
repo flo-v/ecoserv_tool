@@ -1,0 +1,244 @@
+"Ph1code","HabNmPLUS","HabBroad","HabClass","Food","carbon_seq"
+"A1","Woodland,(unknown type)","Other","Woodland and scrub",1,-13.16
+"A11","Woodland,Broadleaved,(unknown type)","Woodland, broadleaved","Woodland and scrub",1,-13.64
+"A11/A2","Woodland,Broadleaved,(unknown type)/ with scrub","Woodland, broadleaved","Woodland and scrub",1,-13.64
+"A11_AW","Woodland,Broadleaved,[ancient wood]","Woodland, broadleaved","Woodland and scrub",1,-13.64
+"A111","Woodland,Broadleaved,Semi-natural","Woodland, broadleaved","Woodland and scrub",1,-13.64
+"A111/A2","Woodland,Broadleaved,Semi-natural/ with scrub","Woodland, broadleaved","Woodland and scrub",1,-13.64
+"A112","Woodland,Broadleaved,Plantation","Woodland, broadleaved","Woodland and scrub",1,-13.64
+"A112/A2","Woodland,Broadleaved,Plantation/ with scrub","Woodland, broadleaved","Woodland and scrub",1,-13.64
+"A11-O","Woodland,Broadleaved,Plantation,(orchard)","Woodland, broadleaved","Woodland and scrub",10,-5.99
+"A112o_T","Woodland,Broadleaved,Plantation,(orchard),Traditional","Woodland, broadleaved","Woodland and scrub",5,-2.89
+"A112o","Woodland,Broadleaved,Plantation,(orchard)","Woodland, broadleaved","Woodland and scrub",10,-5.99
+"A12","Woodland,Coniferous,(unknown type)","Woodland, coniferous","Woodland and scrub",1,-12.68
+"A12/A2","Woodland,Coniferous,(unknown type)/ with scrub","Woodland, coniferous","Woodland and scrub",1,-12.68
+"A12_AW","Woodland,Coniferous,[ancient wood]","Woodland, coniferous","Woodland and scrub",1,-12.68
+"A121","Woodland,Coniferous,Semi-natural","Woodland, coniferous","Woodland and scrub",1,-12.68
+"A121/A2","Woodland,Coniferous,Semi-natural/ with scrub","Woodland, coniferous","Woodland and scrub",1,-12.68
+"A122","Woodland,Coniferous,Plantation","Woodland, coniferous","Woodland and scrub",1,-12.68
+"A122/A2","Woodland,Coniferous,Plantation/ with scrub","Woodland, coniferous","Woodland and scrub",1,-12.68
+"A13","Woodland,Mixed,(unknown type)","Woodland, mixed","Woodland and scrub",1,-13.16
+"A13/A2","Woodland,Mixed,(unknown type)/ with scrub","Woodland, mixed","Woodland and scrub",1,-13.16
+"A131","Woodland,Mixed,Semi-natural","Woodland, mixed","Woodland and scrub",1,-13.16
+"A131/A2","Woodland,Mixed,Semi-natural/ with scrub","Woodland, mixed","Woodland and scrub",1,-13.16
+"A132","Woodland,Mixed,Plantation","Woodland, mixed","Woodland and scrub",1,-13.16
+"A132/A2","Woodland,Mixed,Plantation/ with scrub","Woodland, mixed","Woodland and scrub",1,-13.16
+"A2","Scrub,(unknown),","Scrub","Woodland and scrub",NA,-2.89
+"A21","Scrub,Dense/continuous,","Scrub","Woodland and scrub",NA,-2.89
+"A22","Scrub,Scattered,","Scrub","Woodland and scrub",NA,-2.89
+"A2m","Scrub,,(mountain)","Scrub","Woodland and scrub",NA,-2.89
+"A3","Parkland/scattered trees,(unknown),","Trees / Parkland","Woodland and scrub",NA,-2.89
+"A31","Parkland/scattered trees,Broadleaved,","Trees / Parkland","Woodland and scrub",NA,-2.89
+"A31/A2","Parkland/scattered trees,Broadleaved,/ with scrub","Scrub","Woodland and scrub",NA,-2.89
+"A32","Parkland/scattered trees,Coniferous,","Trees / Parkland","Woodland and scrub",NA,-2.89
+"A32/A2","Parkland/scattered trees,Coniferous,/ with scrub","Trees / Parkland","Woodland and scrub",NA,-2.89
+"A33","Parkland/scattered trees,Mixed,","Trees / Parkland","Woodland and scrub",NA,-2.89
+"A33/A2","Parkland/scattered trees,Mixed,/ with scrub","Trees / Parkland","Woodland and scrub",NA,-2.89
+"A3p","Parkland/scattered trees,,(parkland)","Trees / Parkland","Woodland and scrub",NA,-2.89
+"A41","Recently felled,Broadleaved,","Felled woodland","Woodland and scrub",NA,-2.89
+"A42","Recently felled,Coniferous,","Felled woodland","Woodland and scrub",NA,-2.89
+"A43","Recently felled,Mixed,","Felled woodland","Woodland and scrub",NA,-2.89
+"Au_SN","Woods/Trees/Scrub,,with semi-natural habitats","Mixed habitats","Mixed / other / uncertain",NA,-2.89
+"B/C31","Grassland,(unknown),(unknown type)/ with Tall ruderal (rail verge)","Grassland, unknown","Grassland and marsh",NA,0
+"B11","Grassland,Acid,Unimproved","Grassland, semi-natural","Grassland and marsh",NA,0
+"B11a","Grassland,Acid,Unimproved","Grassland, semi-natural","Grassland and marsh",NA,0
+"B11m","Grassland,Acid,Unimproved(moorland)","Grassland, semi-natural","Grassland and marsh",NA,0
+"B12","Grassland,Acid,Semi-improved","Grassland, semi-natural","Grassland and marsh",6,0
+"B21","Grassland,Neutral,Unimproved","Grassland, semi-natural","Grassland and marsh",NA,0
+"B22","Grassland,Neutral,Semi-improved","Grassland, semi-natural","Grassland and marsh",6,0
+"B31","Grassland,Calcareous,Unimproved","Grassland, semi-natural","Grassland and marsh",NA,0
+"B32","Grassland,Calcareous,Semi-improved","Grassland, semi-natural","Grassland and marsh",6,0
+"B4","Grassland,Improved,","Grassland, improved","Grassland and marsh",10,-0.36
+"B4/Bu","Pastures","Grassland, improved","Grassland and marsh",10,-0.36
+"B4/J11","Grassland,Improved,/arable (probable)","Uncertain agriculture (improved grass or arable)","Mixed / other / uncertain",10,-0.04
+"B4/J11Urb","Grassland,Improved,/arable (probable)[urban]","Cultivated / disturbed land","Cultivated / disturbed land",10,-0.04
+"B4f","Grassland,Improved,(floodplain/grazing marsh)","Grassland, improved","Grassland and marsh",10,-3.36
+"B4Urb","Grassland,Improved,[urban]","Grassland, improved","Grassland and marsh",10,-0.04
+"B5","Grassland,Marshy,","Grassland, marshy","Grassland and marsh",4,-3.36
+"B5/B(u)","Grassland,Marshy,/ or Grassland (unknown)","Grassland, marshy","Grassland and marsh",4,-3.36
+"B5/E3/F","Grassland,Marshy,/Fen/Swamp/Saltmarsh","Grassland, marshy","Grassland and marsh",4,-3.36
+"B5/E3/F/H2","Grassland,Marshy,/Fen/Swamp/Saltmarsh","Grassland, marshy","Grassland and marsh",4,-3.36
+"B5/E3/F/H2_Bu","Grassland,Marshy,/Fen/Swamp/Saltmarsh and Rough grassland","Grassland, marshy","Grassland and marsh",4,-3.36
+"B6","Grassland,Poor,Semi-improved","Grassland, semi-natural","Grassland and marsh",NA,0
+"B6/J3","Grassland,Poor,Semi-improved/Ephemeral/short perennial","Uncertain","Grassland and marsh",NA,0
+"B6/J3Urb","Grassland,Poor,Semi-improved/Ephemeral/short perennial[urban]","Uncertain","Grassland and marsh",NA,0
+"Bu","Grassland, rough (probable semi-improved)","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu/A11(A2)","Grassland,(unknown),/ with broadleaved trees or scrub","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu/A112","Grassland,(unknown),/ with broadleaved woodland","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu/A12","Grassland,(unknown),/ with coniferous trees","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu/A122","Grassland,(unknown),/ with coniferous woodland","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A1/A2","Grassland,(unknown),/ with woodland or scrub","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A11","Grassland,(unknown),/ with broadleaved trees","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A11/A2","Grassland,(unknown),/ with broadleaved trees or scrub","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A112","Grassland,(unknown),/ with broadleaved woodland","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A12","Grassland,(unknown),/ with coniferous trees","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A2/A3","Grassland,(unknown),/ with scrub,trees","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A2/A31","Grassland,(unknown),/ with scrub,trees","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A31","Grassland,(unknown),/ with scrub,trees","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_A32","Grassland,(unknown),/ with scrub,trees","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu_Au","Grassland,(unknown),(unknown type)_ with wood, scrub or trees","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu1","Grassland,(unknown),Unimproved","Grassland, semi-natural","Grassland and marsh",NA,0
+"Bu1/A11(A2)","Grassland,(unknown),Unimproved/ with broadleaved trees or scrub","Grassland, semi-natural","Grassland and marsh",NA,0
+"Bu1/A11,A2","Grassland,(unknown),Unimproved/ with broadleaved trees or scrub","Grassland, semi-natural","Grassland and marsh",NA,0
+"Bu1/A112","Grassland,(unknown),Unimproved/ with broadleaved woodland","Grassland, semi-natural","Grassland and marsh",NA,0
+"Bu1/A12","Grassland,(unknown),Unimproved/ with coniferous trees","Grassland, semi-natural","Grassland and marsh",NA,0
+"Bu1/A122","Grassland,(unknown),Unimproved/ with coniferous woodland","Grassland, semi-natural","Grassland and marsh",NA,0
+"Bu1/A2","Grassland,(unknown),Unimproved/ with scrub","Grassland, semi-natural","Grassland and marsh",NA,0
+"Bu1/A2,A3","Grassland,(unknown),Unimproved/ with scrub,trees","Grassland, semi-natural","Grassland and marsh",NA,0
+"Bu1/Bu2","Grassland,,(semi-improved or unimproved) (rough grassland)","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu1/Bu2Urb","Grassland,,(semi-improved or unimproved) (rough grassland)[urban]","Grassland, semi-natural","Grassland and marsh",6,0
+"Bu2","Grassland,(unknown),semi-improved (GQ)","Grassland, semi-natural","Grassland and marsh",6,0
+"Bui","Grassland,(unknown),(probably improved)","Grassland, unknown","Grassland and marsh",6,0
+"BuiUrb","Grassland,(unknown),(probably improved)[urban]","Grassland, unknown","Grassland and marsh",NA,0
+"Buu","Grassland,(unknown),(unknown type)[urban]","Grassland, unknown","Grassland and marsh",NA,0
+"Buu/C31","Grassland,(unknown),(unknown type)/ with Tall ruderal (rail verge)[urban]","Grassland, unknown","Grassland and marsh",NA,0
+"C11","Bracken,Continuous,","Other","Mixed / other / uncertain",NA,0
+"C12","Bracken,Scattered,","Other","Mixed / other / uncertain",NA,0
+"C31","Other,Tall ruderal,","Other","Mixed / other / uncertain",NA,0
+"C31rv","Other,Tall ruderal,(rail verge)","Other","Mixed / other / uncertain",NA,0
+"C32","Other,Non-ruderal,","Other","Mixed / other / uncertain",NA,0
+"C3u","Other,(unknown),","Other","Mixed / other / uncertain",NA,0
+"D","Heath","Heathland","Heathland and Mire",1,0.054
+"D/E","Heath or Mire (unknown type),,","Heathland","Heathland and Mire",1,0.054
+"D/E/Bu/I","Sparsely vegetated areas","Heathland","Heathland and Mire",1,0.054
+"D/I","Dry dwarf shrub heath,(unknown),/ with Natural rock","Heathland","Heathland and Mire",1,0.054
+"D/I1","Dry dwarf shrub heath,(unknown),/ with Natural rock","Heathland","Heathland and Mire",1,0.054
+"D_B5/E3/F/H2","Heath (unknown type),,marshy grassland","Heathland","Heathland and Mire",1,0.054
+"D11","Dry dwarf shrub heath,Acid,","Heathland","Heathland and Mire",1,0.054
+"D12","Dry dwarf shrub heath,Basic,","Heathland","Heathland and Mire",1,0.054
+"D1u","Dry dwarf shrub heath,(unknown),","Heathland","Heathland and Mire",1,0.054
+"D2","Wet dwarf shrub heath,,","Heathland","Heathland and Mire",1,0.054
+"D3","Lichen/bryophyte heath,,","Heathland","Heathland and Mire",1,0.054
+"D4","Montane heath/dwarf shrub,,","Heathland","Heathland and Mire",1,0.054
+"D5","Mosaic: acid grassland, dry heath,,","Heathland","Heathland and Mire",1,0.054
+"D5/Au","Mosaic: acid grassland, dry heath,,/ with Woods, Trees, Scrub","Heathland","Heathland and Mire",1,0.054
+"D5/D6","Mosaic: acid grassland, (heath type unknown ),,","Heathland","Heathland and Mire",1,0.054
+"D5_Au","Mosaic: acid grassland, dry heath,,/ with Woods, Trees, Scrub","Heathland","Heathland and Mire",1,0.054
+"D5_Bu_Au","Mosaic: acid grassland, dry heath,,/ rough grassland / with Woods, Trees, Scrub","Heathland","Heathland and Mire",1,0.054
+"D5h","Mosaic: acid grassland, dry heath,,","Heathland","Heathland and Mire",1,0.054
+"D5h_A2","Mosaic: acid grassland, dry heath,,/ with Scrub","Heathland","Heathland and Mire",1,0.054
+"D6","Mosaic: acid grassland, wet heath,,","Heathland","Heathland and Mire",1,0.054
+"Du","Heath (unknown type),,","Heathland","Heathland and Mire",1,0.054
+"E161","Bog,Sphagnum,Blanket bog","Mire","Heathland and Mire",1,-0.02
+"E162","Bog,Sphagnum,Raised bog","Mire","Heathland and Mire",1,-0.02
+"E17","Bog,Wet modified bog,","Mire","Heathland and Mire",1,-0.02
+"E18","Bog,Dry modified bog,","Mire","Heathland and Mire",1,3.48
+"E1u","Bog,(unknown type)","Mire","Heathland and Mire",1,1.73
+"E1u (Au)","Bog,(unknown type), with trees or scrub","Mire","Heathland and Mire",1,1.73
+"E2/E3/F1","Upland flushes, fens and swamps,,","Mire","Heathland and Mire",1,-0.93
+"E21","Flush and spring,Acid/Neutral,","Mire","Heathland and Mire",1,-0.93
+"E22","Flush and spring,Basic,","Mire","Heathland and Mire",1,-0.93
+"E3/F1","Fen,,(lowland fen)","Mire","Heathland and Mire",1,-0.93
+"E31","Fen,Valley mire,","Mire","Heathland and Mire",1,-0.93
+"E32","Fen,Basin mire,","Mire","Heathland and Mire",1,-0.93
+"E33","Fen,Flood-plain mire,","Mire","Heathland and Mire",1,-0.93
+"E3u","Fen,(unknown),","Mire","Heathland and Mire",1,-0.93
+"E4","Bare peat,,","Mire","Heathland and Mire",NA,12.03
+"F1","Swamp,,","Swamp","Swamp and marginal",NA,-0.93
+"Fu","Swamp/marginal/inundation,(unknown),","Uncertain","Swamp and marginal",NA,-0.93
+"G","Water (inland),(unknown),","Water, fresh","Water",NA,NA
+"G16","Standing water,Brackish / saline lagoons,","Water, brackish","Water",NA,NA
+"G1u","Standing water,(unknown),","Water, fresh","Water",NA,-14.1
+"G26","Running water,Brackish / Tidal,","Water, brackish","Water",NA,NA
+"Gt","Tidal water","Water, brackish","Water",NA,NA
+"G2u","Running water,(unknown),","Water, fresh","Water",NA,NA
+"G3","Sea,,","Water, sea","Sea",NA,NA
+"H11","Intertidal,Mud/sand,","Intertidal","Coastal",NA,-1.98
+"H12","Intertidal,Shingles/cobbles,","Intertidal","Coastal",NA,NA
+"H13","Intertidal,Boulders/rocks,","Intertidal","Coastal",NA,NA
+"H1","Intertidal,(unknown),","Intertidal","Coastal",NA,-1.98
+"H1u","Intertidal,(unknown),","Intertidal","Coastal",NA,-1.98
+"H1ua","Intertidal,(unknown),","Intertidal","Coastal",NA,-1.98
+"H24","Saltmarsh,Scattered,","Saltmarsh","Coastal",NA,-3.63
+"H26","Saltmarsh,Dense/continuous,","Saltmarsh","Coastal",NA,-5.19
+"H2u","Saltmarsh,Unknown type,","Saltmarsh","Coastal",NA,-5.19
+"H3","Shingle above high tide,,","Shingle","Coastal",NA,NA
+"H3/H5","Shingle above high tide,,/ Strandline vegetation","Shingle","Coastal",NA,NA
+"H3/H6u","Shingle above high tide,,or Sand dune","Shingle","Coastal",NA,NA
+"H3/H5/H6","Sand dunes or vegetated shingle","Shingle","Coastal",NA,NA
+"H4","Boulders/rocks above high tide,,","Boulders","Coastal",NA,NA
+"H64","Sand dune,Dune slack,","Sand dune","Coastal",NA,-2.18
+"H65","Sand dune,Dune grassland,","Sand dune","Coastal",NA,-2.18
+"H66","Sand dune,Dune heath,","Sand dune","Coastal",NA,-2.18
+"H67","Sand dune,Dune scrub,","Sand dune","Coastal",NA,-2.18
+"H68","Sand dune,Open dune,","Sand dune","Coastal",NA,-2.18
+"H6u","Sand dune,(unknown),","Sand dune","Coastal",NA,-2.18
+"H8","Maritime cliff and slope,(unknown),","Maritime cliff and slope","Coastal",NA,NA
+"H81","Maritime cliff and slope,Hard cliff,","Maritime cliff and slope","Coastal",NA,NA
+"H82","Maritime cliff and slope,Soft cliff,","Maritime cliff and slope","Coastal",NA,NA
+"H84","Maritime cliff and slope,Coastal grassland,","Maritime cliff and slope","Coastal",NA,NA
+"H85","Maritime cliff and slope,Coastal heathland,","Maritime cliff and slope","Coastal",NA,NA
+"I/J","Dump sites","Artificial exposure / waste","Rock, exposure and waste",NA,NA
+"I1","Natural rock,(unknown),","Natural rock","Rock, exposure and waste",NA,NA
+"Ib","Boulders","Natural rock","Rock, exposure and waste",NA,NA
+"Ic","Calaminarian grassland","Natural rock","Rock, exposure and waste",NA,NA
+"I11","Natural rock,Inland cliff,(unknown type)","Natural rock","Rock, exposure and waste",NA,NA
+"I111","Natural rock,Inland cliff,Acid/neutral","Natural rock","Rock, exposure and waste",NA,NA
+"I112","Natural rock,Inland cliff,Basic","Natural rock","Rock, exposure and waste",NA,NA
+"I12","Natural rock,Scree,(unknown type)","Natural rock","Rock, exposure and waste",NA,NA
+"I121","Natural rock,Scree,Acid/neutral","Natural rock","Rock, exposure and waste",NA,NA
+"I122","Natural rock,Scree,Basic","Natural rock","Rock, exposure and waste",NA,NA
+"I13","Natural rock,Limestone pavement,","Natural rock","Rock, exposure and waste",NA,NA
+"I14b","Natural rock,Other exposure,boulders","Natural rock","Rock, exposure and waste",NA,NA
+"I14u","Natural rock,Other exposure,(unknown type)","Natural rock","Rock, exposure and waste",NA,NA
+"I21","Artificial rock/exposure/waste,Quarry,","Artificial exposure / waste","Rock, exposure and waste",NA,NA
+"I22","Artificial rock/exposure/waste,Spoil,","Artificial exposure / waste","Rock, exposure and waste",NA,NA
+"I23","Artificial rock/exposure/waste,Mine,","Artificial exposure / waste","Rock, exposure and waste",NA,NA
+"I24","Artificial rock/exposure/waste,Refuse-tip,","Artificial exposure / waste","Rock, exposure and waste",NA,NA
+"I2u","Artificial rock/exposure/waste,(unknown),","Artificial exposure / waste","Rock, exposure and waste",NA,NA
+"J1M","Grassland,Improved,(floodplain/grazing marsh)","Grassland, improved","Grassland and marsh",4,0
+"J1P","Pastures","Grassland, improved","Grassland and marsh",10,-0.36
+"J11","Cultivated/disturbed land,Arable,","Cultivated / disturbed land","Cultivated / disturbed land",10,0.29
+"J11a","Cultivated/disturbed land,Arable,","Cultivated / disturbed land","Cultivated / disturbed land",10,0.29
+"J11/Bu","Land principally occupied by agriculture","Cultivated / disturbed land","Cultivated / disturbed land",10,0.29
+"J11t","Cultivated/disturbed land,Arable,(Allotments)","Cultivated / disturbed land","Cultivated / disturbed land",7,0.29
+"J12","Cultivated/disturbed land,Amenity grassland,","Cultivated / disturbed land","Cultivated / disturbed land",NA,0
+"J12Urb","Cultivated/disturbed land,Amenity grassland,[urban]","Cultivated / disturbed land","Cultivated / disturbed land",NA,0
+"J12v","Cultivated/disturbed land,Amenity grassland,(road verge)","Cultivated / disturbed land","Cultivated / disturbed land",NA,0
+"J13","Cultivated/disturbed land,Ephemeral/short perennial,","Cultivated / disturbed land","Cultivated / disturbed land",NA,0.29
+"J13Urb","Cultivated/disturbed land,Ephemeral/short perennial,[urban]","Cultivated / disturbed land","Cultivated / disturbed land",NA,0.29
+"J14","Cultivated/disturbed land, Introduced shrub","Scrub","Woodland and scrub",NA,0
+"J1u","Cultivated/disturbed land,(unknown),","Cultivated / disturbed land","Cultivated / disturbed land",NA,0.29
+"J1uUrb","Cultivated/disturbed land,(unknown),[urban]","Cultivated / disturbed land","Cultivated / disturbed land",NA,0.29
+"J21","Boundaries,Intact hedge,","Boundaries","Mixed / other / uncertain",NA,-1.99
+"J22","Boundaries,Defunct hedge,","Boundaries","Mixed / other / uncertain",NA,-1.49
+"J23","Boundaries,Hedge and trees,","Boundaries","Mixed / other / uncertain",NA,-2.19
+"J24","Boundaries,Fence,","Boundaries","Mixed / other / uncertain",NA,NA
+"J25","Boundaries,Wall,","Boundaries","Mixed / other / uncertain",NA,NA
+"J26","Boundaries,Dry ditch,","Boundaries","Mixed / other / uncertain",NA,NA
+"J28","Boundaries,Earth bank,","Boundaries","Mixed / other / uncertain",NA,NA
+"J34","Built-up area,Caravan site,","Built up areas","Urban",NA,NA
+"J35","Built-up area,Sea wall,","Built up areas","Urban",NA,NA
+"J360","Built-up area,Buildings,(domestic)","Built up areas","Urban",NA,NA
+"J361","Built-up area,Buildings,Business or Industry","Built up areas","Urban",NA,NA
+"J362","Built-up area,Buildings,Shed/Garage/Farm building","Built up areas","Urban",NA,NA
+"J363","Built-up area,Buildings,Structure","Built up areas","Urban",NA,NA
+"J364","Built-up area,Buildings,Glasshouse","Built up areas","Urban",7,NA
+"J36x","Built-up area,Buildings,Glasshouse","Built up areas","Urban",7,NA
+"J36","Built-up area,Buildings,(unknown type)","Built up areas","Urban",NA,NA
+"J36u","Built-up area,Buildings,(unknown type)","Built up areas","Urban",NA,NA
+"J3x1","Built-up area,Sealed surface,","Built up areas","Urban",NA,NA
+"J37","Built-up area,Sealed surface,","Built up areas","Urban",NA,NA
+"J37/J12/J55","Discontinuous urban fabric","Built up areas","Urban",NA,NA
+"J3u","Built-up area,(unknown),","Built up areas","Urban",NA,NA
+"J4","Bare ground,,","Other","Mixed / other / uncertain",NA,NA
+"J4u","Bare ground,(unknown type),","Built up areas","Urban",NA,NA
+"J5","Other habitat,,","Other","Mixed / other / uncertain",NA,NA
+"J511","Other habitat,Road,Surfaced","Roads","Infrastructure",NA,NA
+"J512","Other habitat,Road,Unsurfaced","Roads","Infrastructure",NA,NA
+"J52","Other habitat,Roadside/Pavement,","Pavement","Infrastructure",NA,NA
+"J53","Other habitat,Railway,","Railway","Infrastructure",NA,NA
+"J54","Other habitat,Path, sealed,","Path","Infrastructure",NA,NA
+"J55","Other habitat,Probable garden/brownfield or park,","Gardens / Parks / Brownfield","Gardens / Parks / Brownfield",NA,NA
+"J55Urb","Other habitat,Probable garden/brownfield or park,[urban]","Gardens / Parks / Brownfield","Gardens / Parks / Brownfield",NA,NA
+"J56","Other habitat,Private garden,","Garden","Gardens / Parks / Brownfield",1,NA
+"J56Urb","Other habitat,Private garden,[urban]","Garden","Gardens / Parks / Brownfield",1,NA
+"K","Sea,,","Water, sea","Sea",NA,NA
+"Linear","Linear habitats","Other","Mixed / other / uncertain",NA,0
+"Montane","Montane habitats","Montane","Montane",NA,NA
+"Unclassified","Unclassified","Unclassified","Unclassified",NA,NA
+"Unclassified, not greenspace","Unclassified","Unclassified","Unclassified",NA,NA
+"Unclassified, area in development","Unclassified","Unclassified","Unclassified",NA,NA
+"GW","Green wall installation","Cultivated / disturbed land","Green urban surfaces",NA,NA
+"GR","Green roof for pollinators (planters)","Cultivated / disturbed land","Green urban surfaces",NA,NA
+"B5_Au","Grassland,Marshy, / with scrub, trees","Grassland, marshy","Grassland and marsh",4,NA
